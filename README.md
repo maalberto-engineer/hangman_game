@@ -10,7 +10,7 @@ A classic command-line Hangman game with word database and scoring system.
 - Replay option
 
 ## 🚀 How to Run
-
+'''bash
 # Clone the repository
 git clone https://github.com/maalberto-engineer/hangman_game.git
 
